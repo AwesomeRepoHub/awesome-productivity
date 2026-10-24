@@ -8,7 +8,9 @@
 <p><a href="README.md">中文</a> · <a href="CONTRIBUTING.md">Contributing</a> · <a href="https://github.com/AwesomeRepoHub/awesome-index">All collections</a></p>
 </div>
 
-> **16 projects, 762k stars in total.** Stars, licenses and last-commit dates are pulled from the GitHub API and refreshed on 2026-10-24. Sorted by stars for reference only — popularity is not quality.
+> **25 projects, 1.2M stars in total.** Stars, licenses and last-commit dates are pulled from the GitHub API and refreshed on 2026-10-24. Sorted by stars for reference only — popularity is not quality.
+
+<sub>Reading the tables: stars and "Updated" come from the GitHub API at build time; license is read from the repository; notes in parentheses are limitations worth knowing first.</sub>
 
 ## Pick in 30 seconds
 
@@ -29,62 +31,71 @@
 
 ## Notes and knowledge bases
 
-Three checks: can you export, are backlinks pleasant, does mobile work.
+_Three checks: can you export, are backlinks pleasant, does mobile work._
 
-| Project | What it does | Stars | License |
-|:--|:--|--:|:--|
-| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more… | 77.7k | `AGPL-3.0` |
-| [AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning… | 73.8k | `custom` |
-| [Joplin](https://github.com/laurent22/joplin) | Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS. | 56.8k | `custom` |
-| [SiYuan](https://github.com/siyuan-note/siyuan) | An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together… | 46.9k | `AGPL-3.0` |
-| [Logseq](https://github.com/logseq/logseq) | A privacy-first, open-source platform for knowledge management and collaboration. Download link… | 45.3k | `AGPL-3.0` |
-| [Docmost](https://github.com/docmost/docmost) | Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence… | 22.1k | `AGPL-3.0` |
+| Project | What it does | Stars | License | Updated |
+|:--|:--|--:|:--|--:|
+| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more… | 77.7k | `AGPL-3.0` | 2026-10 |
+| [AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning… | 73.8k | `custom` | 2026-10 |
+| [Joplin](https://github.com/laurent22/joplin) | Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS. | 56.8k | `custom` | 2026-10 |
+| [SiYuan](https://github.com/siyuan-note/siyuan) | An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together… | 46.9k | `AGPL-3.0` | 2026-10 |
+| [Logseq](https://github.com/logseq/logseq) | A privacy-first, open-source platform for knowledge management and collaboration. Download link… | 45.3k | `AGPL-3.0` | 2026-10 |
+| [WeKnora](https://github.com/Tencent/WeKnora) | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a… | 35.2k | `custom` | 2026-10 |
+| [Docmost](https://github.com/docmost/docmost) | Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence… | 22.1k | `AGPL-3.0` | 2026-10 |
+| [Docs](https://github.com/suitenumerique/docs) | Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and… | 16.9k | `MIT` | 2026-10 |
 
 <sub>[Back to top](#contents)</sub>
 
 ## Tasks and collaboration
 
-Lightweight for one person, cycle-based for teams.
+_Lightweight for one person, cycle-based for teams._
 
-| Project | What it does | Stars | License |
-|:--|:--|--:|:--|
-| [Plane](https://github.com/makeplane/plane) | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage… | 61.3k | `AGPL-3.0` |
-| [Super Productivity](https://github.com/super-productivity/super-productivity) | Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also… | 23.1k | `MIT` |
+| Project | What it does | Stars | License | Updated |
+|:--|:--|--:|:--|--:|
+| [Plane](https://github.com/makeplane/plane) | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage… | 61.3k | `AGPL-3.0` | 2026-10 |
+| [Super Productivity](https://github.com/super-productivity/super-productivity) | Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also… | 23.1k | `MIT` | 2026-10 |
+| [青龙](https://github.com/whyour/qinglong) | 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell… | 20.0k | `Apache-2.0` | 2026-10 |
 
 <sub>[Back to top](#contents)</sub>
 
 ## Whiteboards and diagrams
 
-Faster than slides for architecture sketches and thinking out loud.
+_Faster than slides for architecture sketches and thinking out loud._
 
-| Project | What it does | Stars | License |
-|:--|:--|--:|:--|
-| [Excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams | 134k | `MIT` |
+| Project | What it does | Stars | License | Updated |
+|:--|:--|--:|:--|--:|
+| [Excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams | 134k | `MIT` | 2026-10 |
+| [Mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown | 90.8k | `MIT` | 2026-10 |
 
 <sub>[Back to top](#contents)</sub>
 
 ## Desktop and terminal
 
-The kind that removes a few hundred clicks a week.
+_The kind that removes a few hundred clicks a week._
 
-| Project | What it does | Stars | License |
-|:--|:--|--:|:--|
-| [Yazi](https://github.com/sxyazi/yazi) | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. | 43.0k | `MIT` |
-| [IT-Tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX. | 41.0k | `GPL-3.0` |
-| [ShareX](https://github.com/ShareX/ShareX) | ShareX is a free and open-source application that enables users to capture or record any area of their screen with a… | 40.4k | `GPL-3.0` |
-| [Wox](https://github.com/Wox-launcher/Wox) | A cross-platform launcher that simply works | 27.6k | `GPL-3.0` |
-| [Wave Terminal](https://github.com/wavetermdev/waveterm) | An open-source, AI-integrated, cross-platform terminal for seamless workflows | 22.6k | `Apache-2.0` |
+| Project | What it does | Stars | License | Updated |
+|:--|:--|--:|:--|--:|
+| [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+…（仅 macOS/Linux） | 190k | `MIT` | 2026-10 |
+| [Files](https://github.com/files-community/Files) | A modern file manager that helps users organize their files and folders.（仅 Windows） | 46.2k | `MIT` | 2026-10 |
+| [Yazi](https://github.com/sxyazi/yazi) | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. | 43.0k | `MIT` | 2026-10 |
+| [IT-Tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX. | 41.0k | `GPL-3.0` | 2026-10 |
+| [ShareX](https://github.com/ShareX/ShareX) | ShareX is a free and open-source application that enables users to capture or record any area of their screen with a… | 40.4k | `GPL-3.0` | 2026-10 |
+| [Wox](https://github.com/Wox-launcher/Wox) | A cross-platform launcher that simply works | 27.6k | `GPL-3.0` | 2026-10 |
+| [Wave Terminal](https://github.com/wavetermdev/waveterm) | An open-source, AI-integrated, cross-platform terminal for seamless workflows | 22.6k | `Apache-2.0` | 2026-10 |
+| [nnn](https://github.com/jarun/nnn) | n³ The unorthodox terminal file manager | 22.1k | `BSD-2-Clause` | 2026-10 |
+| [Kap](https://github.com/wulkano/Kap) | An open-source screen recorder built with web technology（仅 macOS） | 19.4k | `MIT` | 2024-11 |
+| [Screenity](https://github.com/alyssaxuu/screenity) | The free and privacy-friendly screen recorder with no limits 🎥（仅 Chrome） | 18.8k | `GPL-3.0` | 2026-10 |
 
 <sub>[Back to top](#contents)</sub>
 
 ## Time and dashboards
 
-Measure first, optimize second.
+_Measure first, optimize second._
 
-| Project | What it does | Stars | License |
-|:--|:--|--:|:--|
-| [Dashy](https://github.com/lissy93/dashy) | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor… | 26.8k | `MIT` |
-| [ActivityWatch](https://github.com/ActivityWatch/activitywatch) | The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. | 19.4k | `MPL-2.0` |
+| Project | What it does | Stars | License | Updated |
+|:--|:--|--:|:--|--:|
+| [Dashy](https://github.com/lissy93/dashy) | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor… | 26.8k | `MIT` | 2026-10 |
+| [ActivityWatch](https://github.com/ActivityWatch/activitywatch) | The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. | 19.4k | `MPL-2.0` | 2026-10 |
 
 <sub>[Back to top](#contents)</sub>
 

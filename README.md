@@ -8,7 +8,9 @@
 <p><a href="README.en.md">English</a> · <a href="CONTRIBUTING.md">参与贡献</a> · <a href="https://github.com/AwesomeRepoHub/awesome-index">全部合集</a></p>
 </div>
 
-> **16 个项目，共 762k Stars。** Stars、许可证、最近提交时间由 GitHub API 实时读取，数据更新于 2026-10-24。排名按 Stars 排序，仅作热度参考，不代表质量。
+> **25 个项目，共 1.2M Stars。** Stars、许可证、最近提交时间由 GitHub API 实时读取，数据更新于 2026-10-24。排名按 Stars 排序，仅作热度参考，不代表质量。
+
+<sub>读表说明：Stars 与「更新」都是生成时从 GitHub API 读到的真实值；许可证取自仓库；括号里是使用前要知道的限制。</sub>
 
 ## 30 秒选型
 
@@ -29,62 +31,71 @@
 
 ## 笔记与知识库
 
-看三件事：数据能不能导出、双链是否顺手、手机端能不能用。
+_看三件事：数据能不能导出、双链是否顺手、手机端能不能用。_
 
-| 项目 | 一句话说明 | Stars | 许可证 |
-|:--|:--|--:|:--|
-| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Notion 开源替代，数据库视图、看板、日历齐全，本地优先 | 77.7k | `AGPL-3.0` |
-| [AFFiNE](https://github.com/toeverything/AFFiNE) | 文档、白板、数据库合一，团队协作可自托管 | 73.8k | `自定义` |
-| [Joplin](https://github.com/laurent22/joplin) | 端到端加密的 Markdown 笔记，WebDAV 同步，全平台 | 56.8k | `自定义` |
-| [SiYuan](https://github.com/siyuan-note/siyuan) | 块级引用与双链，中文排版好，适合长期知识库 | 46.9k | `AGPL-3.0` |
-| [Logseq](https://github.com/logseq/logseq) | 大纲式双链笔记，日记流加白板，插件生态活跃 | 45.3k | `AGPL-3.0` |
-| [Docmost](https://github.com/docmost/docmost) | 团队 Wiki，Confluence 的轻量替代，权限划分细 | 22.1k | `AGPL-3.0` |
+| 项目 | 一句话说明 | Stars | 许可证 | 更新 |
+|:--|:--|--:|:--|--:|
+| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Notion 开源替代，数据库视图、看板、日历齐全，本地优先 | 77.7k | `AGPL-3.0` | 2026-10 |
+| [AFFiNE](https://github.com/toeverything/AFFiNE) | 文档、白板、数据库合一，团队协作可自托管 | 73.8k | `自定义` | 2026-10 |
+| [Joplin](https://github.com/laurent22/joplin) | 端到端加密的 Markdown 笔记，WebDAV 同步，全平台 | 56.8k | `自定义` | 2026-10 |
+| [SiYuan](https://github.com/siyuan-note/siyuan) | 块级引用与双链，中文排版好，适合长期知识库 | 46.9k | `AGPL-3.0` | 2026-10 |
+| [Logseq](https://github.com/logseq/logseq) | 大纲式双链笔记，日记流加白板，插件生态活跃 | 45.3k | `AGPL-3.0` | 2026-10 |
+| [WeKnora](https://github.com/Tencent/WeKnora) | 把文档变成可问答的知识库，中文文档解析友好 | 35.2k | `自定义` | 2026-10 |
+| [Docmost](https://github.com/docmost/docmost) | 团队 Wiki，Confluence 的轻量替代，权限划分细 | 22.1k | `AGPL-3.0` | 2026-10 |
+| [Docs](https://github.com/suitenumerique/docs) | 实时协作的在线文档，可自托管，适合团队写规格 | 16.9k | `MIT` | 2026-10 |
 
 <sub>[回到目录](#目录)</sub>
 
 ## 任务与协作
 
-个人用轻量，团队用带迭代的。
+_个人用轻量，团队用带迭代的。_
 
-| 项目 | 一句话说明 | Stars | 许可证 |
-|:--|:--|--:|:--|
-| [Plane](https://github.com/makeplane/plane) | Jira/Linear 开源替代，迭代、看板、路线图齐全 | 61.3k | `AGPL-3.0` |
-| [Super Productivity](https://github.com/super-productivity/super-productivity) | 待办加番茄钟加时间追踪，桌面端离线可用 | 23.1k | `MIT` |
+| 项目 | 一句话说明 | Stars | 许可证 | 更新 |
+|:--|:--|--:|:--|--:|
+| [Plane](https://github.com/makeplane/plane) | Jira/Linear 开源替代，迭代、看板、路线图齐全 | 61.3k | `AGPL-3.0` | 2026-10 |
+| [Super Productivity](https://github.com/super-productivity/super-productivity) | 待办加番茄钟加时间追踪，桌面端离线可用 | 23.1k | `MIT` | 2026-10 |
+| [青龙](https://github.com/whyour/qinglong) | 定时任务面板，Python/JS/Shell 脚本按 cron 跑 | 20.0k | `Apache-2.0` | 2026-10 |
 
 <sub>[回到目录](#目录)</sub>
 
 ## 白板与图表
 
-画架构图、梳理思路，比 PPT 快得多。
+_画架构图、梳理思路，比 PPT 快得多。_
 
-| 项目 | 一句话说明 | Stars | 许可证 |
-|:--|:--|--:|:--|
-| [Excalidraw](https://github.com/excalidraw/excalidraw) | 手绘风白板，协作与导出免费，画架构图最快 | 134k | `MIT` |
+| 项目 | 一句话说明 | Stars | 许可证 | 更新 |
+|:--|:--|--:|:--|--:|
+| [Excalidraw](https://github.com/excalidraw/excalidraw) | 手绘风白板，协作与导出免费，画架构图最快 | 134k | `MIT` | 2026-10 |
+| [Mermaid](https://github.com/mermaid-js/mermaid) | 用文本画流程图与时序图，文档里直接渲染 | 90.8k | `MIT` | 2026-10 |
 
 <sub>[回到目录](#目录)</sub>
 
 ## 桌面与终端效率
 
-装上就少点几次鼠标的那类。
+_装上就少点几次鼠标的那类。_
 
-| 项目 | 一句话说明 | Stars | 许可证 |
-|:--|:--|--:|:--|
-| [Yazi](https://github.com/sxyazi/yazi) | Rust 写的终端文件管理器，预览快，Vim 键位 | 43.0k | `MIT` |
-| [IT-Tools](https://github.com/CorentinTh/it-tools) | 开发者小工具合集，编码、格式化、换算一站解决 | 41.0k | `GPL-3.0` |
-| [ShareX](https://github.com/ShareX/ShareX) | Windows 截图录屏瑞士军刀，能做自动化工作流 | 40.4k | `GPL-3.0` |
-| [Wox](https://github.com/Wox-launcher/Wox) | Windows 快捷启动器，插件可搜文件、跑命令 | 27.6k | `GPL-3.0` |
-| [Wave Terminal](https://github.com/wavetermdev/waveterm) | 把终端、编辑器、浏览器拼成工作区，AI 命令可回滚 | 22.6k | `Apache-2.0` |
+| 项目 | 一句话说明 | Stars | 许可证 | 更新 |
+|:--|:--|--:|:--|--:|
+| [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) | Zsh 配置框架，主题与插件生态最大（仅 macOS/Linux） | 190k | `MIT` | 2026-10 |
+| [Files](https://github.com/files-community/Files) | Windows 现代文件管理器，多标签与双栏（仅 Windows） | 46.2k | `MIT` | 2026-10 |
+| [Yazi](https://github.com/sxyazi/yazi) | Rust 写的终端文件管理器，预览快，Vim 键位 | 43.0k | `MIT` | 2026-10 |
+| [IT-Tools](https://github.com/CorentinTh/it-tools) | 开发者小工具合集，编码、格式化、换算一站解决 | 41.0k | `GPL-3.0` | 2026-10 |
+| [ShareX](https://github.com/ShareX/ShareX) | Windows 截图录屏瑞士军刀，能做自动化工作流 | 40.4k | `GPL-3.0` | 2026-10 |
+| [Wox](https://github.com/Wox-launcher/Wox) | Windows 快捷启动器，插件可搜文件、跑命令 | 27.6k | `GPL-3.0` | 2026-10 |
+| [Wave Terminal](https://github.com/wavetermdev/waveterm) | 把终端、编辑器、浏览器拼成工作区，AI 命令可回滚 | 22.6k | `Apache-2.0` | 2026-10 |
+| [nnn](https://github.com/jarun/nnn) | 极快的终端文件管理器，按键即达 | 22.1k | `BSD-2-Clause` | 2026-10 |
+| [Kap](https://github.com/wulkano/Kap) | 开源屏幕录制，直接导出 GIF 与视频（仅 macOS） | 19.4k | `MIT` | 2024-11 |
+| [Screenity](https://github.com/alyssaxuu/screenity) | 无时长限制的录屏，隐私友好，浏览器插件（仅 Chrome） | 18.8k | `GPL-3.0` | 2026-10 |
 
 <sub>[回到目录](#目录)</sub>
 
 ## 时间与信息面板
 
-先量化，再优化。
+_先量化，再优化。_
 
-| 项目 | 一句话说明 | Stars | 许可证 |
-|:--|:--|--:|:--|
-| [Dashy](https://github.com/lissy93/dashy) | 自建导航首页，聚合书签与服务状态 | 26.8k | `MIT` |
-| [ActivityWatch](https://github.com/ActivityWatch/activitywatch) | 自动记录时间去向，本地存储不上传 | 19.4k | `MPL-2.0` |
+| 项目 | 一句话说明 | Stars | 许可证 | 更新 |
+|:--|:--|--:|:--|--:|
+| [Dashy](https://github.com/lissy93/dashy) | 自建导航首页，聚合书签与服务状态 | 26.8k | `MIT` | 2026-10 |
+| [ActivityWatch](https://github.com/ActivityWatch/activitywatch) | 自动记录时间去向，本地存储不上传 | 19.4k | `MPL-2.0` | 2026-10 |
 
 <sub>[回到目录](#目录)</sub>
 
